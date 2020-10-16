@@ -1,1 +1,1 @@
-# A Multi-Modal Method for Satire Detection using Textual and Visual Cues
+# A Multi-Modal Method for Satire Detection using Textual and Visual Cues.
